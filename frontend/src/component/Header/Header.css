@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.link-item {
+    text-decoration: none;
+    color: #fff;
+}
+
+.link-item:hover {
+    text-decoration: underline;
+    text-decoration-color: #fff;
+}
